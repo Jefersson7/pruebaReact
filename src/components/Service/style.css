@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.Page {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Form {
+  text-align: center
+}
+
+.Input {
+  margin-bottom: 15px;
+  font-size: calc(10px + 2vmin);
+}
+
+.Service {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
